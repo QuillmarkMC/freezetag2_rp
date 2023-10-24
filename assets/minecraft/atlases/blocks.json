@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "powerups",
+            "prefix": "powerups/"
+        },
+        {
+            "type": "directory",
+            "source": "armor",
+            "prefix": "armor/"
+        }
+    ]
+}

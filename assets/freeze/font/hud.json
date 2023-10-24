@@ -1,0 +1,13 @@
+{
+  "providers": [
+      {
+          "type": "bitmap",
+          "file": "freeze:font/hud.png",
+          "ascent": 134,
+          "height": 160,
+          "chars": [
+              "\uE000"
+          ]
+      }
+  ]
+}
