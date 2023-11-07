@@ -12,7 +12,6 @@
 		{ "predicate": {"custom_model_data": 10}, "model": "freeze:item/powerups/invisibility"},
 		{ "predicate": {"custom_model_data": 11}, "model": "freeze:item/powerups/mystery_box"},
 		{ "predicate": {"custom_model_data": 12}, "model": "freeze:item/powerups/phoenix_ignition"},
-		{ "predicate": {"custom_model_data": 13}, "model": "freeze:item/powerups/decoy_snowman"},
 		{ "predicate": {"custom_model_data": 14}, "model": "freeze:item/powerups/speed_boost"},
 		{ "predicate": {"custom_model_data": 15}, "model": "freeze:item/powerups/glacierback"},
 		{ "predicate": {"custom_model_data": 16}, "model": "freeze:item/powerups/whoaball"}
