@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0":"minecraft:item/phantom_membrane"
+  },
+  "overrides": [
+    {"predicate":{"custom_model_data":1},"model":"freeze:item/item_giver/item_giver"},
+    {"predicate":{"custom_model_data":2},"model":"freeze:item/item_giver/item_question"},
+    {"predicate":{"custom_model_data":3},"model":"freeze:item/item_giver/item_giver_inactive"}
+  ]
+}
