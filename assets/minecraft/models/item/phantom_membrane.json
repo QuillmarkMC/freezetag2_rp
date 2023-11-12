@@ -6,6 +6,9 @@
   "overrides": [
     {"predicate":{"custom_model_data":1},"model":"freeze:item/item_giver/item_giver"},
     {"predicate":{"custom_model_data":2},"model":"freeze:item/item_giver/item_question"},
-    {"predicate":{"custom_model_data":3},"model":"freeze:item/item_giver/item_giver_inactive"}
+    {"predicate":{"custom_model_data":3},"model":"freeze:item/item_giver/item_giver_inactive"},
+    {"predicate":{"custom_model_data":4},"model":"freeze:item/item_giver/item_num_one"},
+    {"predicate":{"custom_model_data":5},"model":"freeze:item/item_giver/item_num_two"},
+    {"predicate":{"custom_model_data":6},"model":"freeze:item/item_giver/item_num_three"}
   ]
 }
