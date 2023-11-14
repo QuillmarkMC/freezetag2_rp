@@ -5,7 +5,7 @@
 	},
 	"overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/powerups/avalanche"},
-		{ "predicate": {"custom_model_data": 3}, "model": "minecraft:item/campfire"},
+		{ "predicate": {"custom_model_data": 3}, "model": "freeze:item/powerups/campfire"},
 		{ "predicate": {"custom_model_data": 6}, "model": "freeze:item/powerups/siberian_exsnowsion"},
 		{ "predicate": {"custom_model_data": 7}, "model": "freeze:item/powerups/glow_point"},
 		{ "predicate": {"custom_model_data": 8}, "model": "freeze:item/powerups/fire_rod"},

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "freeze:item/powerups/volcanaxe"
+    "layer0": "freeze:item/powerups/ice_pick"
   }
 }
