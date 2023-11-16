@@ -1,6 +1,15 @@
 {
   "providers": [
       {
+           "type": "bitmap",
+           "file": "freeze:font/space_split.png",
+           "ascent": 0,
+           "height": 2,
+           "chars": [
+               "\u2800"
+           ]
+      },
+      {
           "type": "bitmap",
           "file": "freeze:font/space_split.png",
           "ascent": -32768,
