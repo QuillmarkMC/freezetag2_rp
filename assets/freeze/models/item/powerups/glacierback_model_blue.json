@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "freeze:item/powerups/glacierback_model",
-		"particle": "freeze:item/powerups/glacierback_model"
+		"0": "freeze:item/powerups/glacierback_model_blue",
+		"particle": "freeze:item/powerups/glacierback_model_blue"
 	},
 	"elements": [
 		{
