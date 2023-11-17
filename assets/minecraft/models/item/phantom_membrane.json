@@ -13,6 +13,7 @@
     {"predicate":{"custom_model_data":7},"model":"freeze:item/powerups/glacierback_model_red"},
     {"predicate":{"custom_model_data":8},"model":"freeze:item/powerups/glacierback_model_blue"},
     {"predicate":{"custom_model_data":9},"model":"freeze:block/campfire_red"},
-    {"predicate":{"custom_model_data":10},"model":"freeze:block/campfire_blue"}
+    {"predicate":{"custom_model_data":10},"model":"freeze:block/campfire_blue"},
+    {"predicate":{"custom_model_data":11},"model":"freeze:item/nothing"}
   ]
 }
