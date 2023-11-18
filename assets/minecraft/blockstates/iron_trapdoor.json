@@ -75,7 +75,7 @@
       "model": "minecraft:block/iron_trapdoor_open"
     },
     "facing=north,half=top,open=false,powered=true": {
-      "model": "minecraft:block/iron_trapdoor_top"
+      "model": "freeze:block/zigzag_trapdoor_top"
     },
     "facing=north,half=top,open=true,powered=true": {
       "model": "minecraft:block/iron_trapdoor_open"
