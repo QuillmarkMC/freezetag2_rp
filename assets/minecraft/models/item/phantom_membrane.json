@@ -15,6 +15,12 @@
     {"predicate":{"custom_model_data":9},"model":"freeze:block/campfire_red"},
     {"predicate":{"custom_model_data":10},"model":"freeze:block/campfire_blue"},
     {"predicate":{"custom_model_data":11},"model":"freeze:item/nothing"},
-    {"predicate":{"custom_model_data":12},"model":"freeze:item/item_giver/mystery_box"}
+    {"predicate":{"custom_model_data":12},"model":"freeze:item/item_giver/mystery_box"},
+    {"predicate":{"custom_model_data":13},"model":"freeze:item/menu/arrow_left"},
+    {"predicate":{"custom_model_data":14},"model":"freeze:item/menu/arrow_right"},
+    {"predicate":{"custom_model_data":15},"model":"freeze:item/menu/menu_gk"},
+    {"predicate":{"custom_model_data":16},"model":"freeze:item/menu/menu_ff"},
+    {"predicate":{"custom_model_data":17},"model":"freeze:item/menu/menu_bo"},
+    {"predicate":{"custom_model_data":18},"model":"freeze:item/menu/menu_fc"}
   ]
 }
