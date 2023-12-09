@@ -21,6 +21,7 @@
     {"predicate":{"custom_model_data":15},"model":"freeze:item/menu/menu_gk"},
     {"predicate":{"custom_model_data":16},"model":"freeze:item/menu/menu_ff"},
     {"predicate":{"custom_model_data":17},"model":"freeze:item/menu/menu_bo"},
-    {"predicate":{"custom_model_data":18},"model":"freeze:item/menu/menu_fc"}
+    {"predicate":{"custom_model_data":18},"model":"freeze:item/menu/menu_fc"},
+    {"predicate":{"custom_model_data":19},"model":"freeze:item/menu/map_select_bg"}
   ]
 }
