@@ -31,6 +31,10 @@
     {"predicate":{"custom_model_data":25},"model":"freeze:item/menu/button_reset"},
     {"predicate":{"custom_model_data":26},"model":"freeze:item/menu/game_options_title_bg"},
     {"predicate":{"custom_model_data":27},"model":"freeze:item/menu/arrow_up"},
-    {"predicate":{"custom_model_data":28},"model":"freeze:item/menu/arrow_down"}
+    {"predicate":{"custom_model_data":28},"model":"freeze:item/menu/arrow_down"},
+    {"predicate":{"custom_model_data":29},"model":"freeze:item/menu/item_enabled"},
+    {"predicate":{"custom_model_data":30},"model":"freeze:item/menu/item_disabled"},
+    {"predicate":{"custom_model_data":31},"model":"freeze:item/menu/item_options_bg"},
+    {"predicate":{"custom_model_data":31},"model":"freeze:item/menu/button_item_toggle"}
   ]
 }
