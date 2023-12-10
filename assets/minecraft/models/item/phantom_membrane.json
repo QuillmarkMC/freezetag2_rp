@@ -21,6 +21,16 @@
     {"predicate":{"custom_model_data":15},"model":"freeze:item/menu/menu_gk"},
     {"predicate":{"custom_model_data":16},"model":"freeze:item/menu/menu_ff"},
     {"predicate":{"custom_model_data":17},"model":"freeze:item/menu/menu_bo"},
-    {"predicate":{"custom_model_data":18},"model":"freeze:item/menu/menu_fc"}
+    {"predicate":{"custom_model_data":18},"model":"freeze:item/menu/menu_fc"},
+    {"predicate":{"custom_model_data":19},"model":"freeze:item/menu/map_select_bg"},
+    {"predicate":{"custom_model_data":20},"model":"freeze:item/menu/button_start"},
+    {"predicate":{"custom_model_data":21},"model":"freeze:item/menu/map_select_title_bg"},
+    {"predicate":{"custom_model_data":22},"model":"freeze:item/menu/game_options_bg"},
+    {"predicate":{"custom_model_data":23},"model":"freeze:item/menu/button_edit"},
+    {"predicate":{"custom_model_data":24},"model":"freeze:item/menu/button_question"},
+    {"predicate":{"custom_model_data":25},"model":"freeze:item/menu/button_reset"},
+    {"predicate":{"custom_model_data":26},"model":"freeze:item/menu/game_options_title_bg"},
+    {"predicate":{"custom_model_data":27},"model":"freeze:item/menu/arrow_up"},
+    {"predicate":{"custom_model_data":28},"model":"freeze:item/menu/arrow_down"}
   ]
 }
