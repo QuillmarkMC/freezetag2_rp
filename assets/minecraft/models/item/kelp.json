@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/kelp"
   },
 	"overrides": [
-    { "predicate": {"custom_model_data": 0}, "model": "minecraft:air"},
+    { "predicate": {"custom_model_data": 0}, "model": "freeze:item/nothing"},
 		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/powerups/avalanche"},
 		{ "predicate": {"custom_model_data": 2}, "model": "freeze:item/powerups/decoy_snowman"},
 		{ "predicate": {"custom_model_data": 3}, "model": "freeze:item/powerups/fire_rod"},
