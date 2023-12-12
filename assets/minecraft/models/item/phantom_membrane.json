@@ -35,6 +35,6 @@
     {"predicate":{"custom_model_data":29},"model":"freeze:item/menu/item_enabled"},
     {"predicate":{"custom_model_data":30},"model":"freeze:item/menu/item_disabled"},
     {"predicate":{"custom_model_data":31},"model":"freeze:item/menu/item_options_bg"},
-    {"predicate":{"custom_model_data":31},"model":"freeze:item/menu/button_item_toggle"}
+    {"predicate":{"custom_model_data":32},"model":"freeze:item/menu/button_item_toggle"}
   ]
 }
