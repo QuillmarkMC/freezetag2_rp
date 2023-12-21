@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 18,
-    "description": "\u00A76\u00A7oResource pack for: \u00A7b\u00A7lFrozen Crag"
+    "pack_format": 22,
+    "description": "\u00A76\u00A7oResource pack for: \u00A7b\u00A7lFrostbite Frenzy",
+    "supported_formats": [18, 22]
   }
 }

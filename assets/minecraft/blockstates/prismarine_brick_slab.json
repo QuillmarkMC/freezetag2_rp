@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=bottom,waterlogged=false": {
+      "model": "minecraft:block/prismarine_brick_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "freeze:block/zigzag_block_purple"
+    },
+    "type=top,waterlogged=false": {
+      "model": "freeze:block/prismarine_brick_slab_top"
+    },
+    "type=bottom,waterlogged=true": {
+      "model": "minecraft:block/prismarine_brick_slab"
+    },
+    "type=double,waterlogged=true": {
+      "model": "freeze:block/powder_snow_blue"
+    },
+    "type=top,waterlogged=true": {
+      "model": "minecraft:block/prismarine_brick_slab_top"
+    }
+  }
+}
