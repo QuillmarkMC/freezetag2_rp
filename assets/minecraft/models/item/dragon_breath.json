@@ -1,0 +1,106 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/dragon_breath"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "freeze:item/aj/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "freeze:item/aj/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "freeze:item/aj/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "freeze:item/aj/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "freeze:item/aj/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "freeze:item/aj/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "freeze:item/aj/strongis/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "freeze:item/aj/strongis/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "freeze:item/aj/strongis/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "freeze:item/aj/strongis/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "freeze:item/aj/strongis/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "freeze:item/aj/strongis/left_leg"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"qm_players": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13
+				]
+			}
+		}
+	}
+}

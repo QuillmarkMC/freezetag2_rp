@@ -1,0 +1,148 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/popped_chorus_fruit"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "freeze:item/aj_thick/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "freeze:item/aj_thick/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "freeze:item/aj_thick/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "freeze:item/aj_thick/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "freeze:item/aj_thick/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "freeze:item/aj_thick/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "freeze:item/aj_thick/soccby/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "freeze:item/aj_thick/soccby/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "freeze:item/aj_thick/soccby/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "freeze:item/aj_thick/soccby/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "freeze:item/aj_thick/soccby/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "freeze:item/aj_thick/soccby/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "freeze:item/aj_thick/tech/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "freeze:item/aj_thick/tech/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "freeze:item/aj_thick/tech/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "freeze:item/aj_thick/tech/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "freeze:item/aj_thick/tech/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "freeze:item/aj_thick/tech/left_leg"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"qm_players_thick": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16,
+					17,
+					18,
+					19
+				]
+			}
+		}
+	}
+}

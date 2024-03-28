@@ -1,0 +1,6 @@
+{
+	"parent": "freeze:item/aj_thick/head",
+	"textures": {
+		"0": "freeze:item/aj_thick/soccby"
+	}
+}
