@@ -37,6 +37,8 @@
     {"predicate":{"custom_model_data":31},"model":"freeze:item/menu/item_options_bg"},
     {"predicate":{"custom_model_data":32},"model":"freeze:item/menu/button_item_toggle"},
     {"predicate":{"custom_model_data":33},"model":"freeze:item/misc_lobby/train_set"},
-    {"predicate":{"custom_model_data":34},"model":"freeze:item/misc_lobby/throne"}
+    {"predicate":{"custom_model_data":34},"model":"freeze:item/misc_lobby/throne"},
+    {"predicate":{"custom_model_data":35},"model":"freeze:item/misc_lobby/cape_cherry"},
+    {"predicate":{"custom_model_data":36},"model":"freeze:item/misc_lobby/cape_realms"}
   ]
 }
