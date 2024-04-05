@@ -41,6 +41,9 @@
     {"predicate":{"custom_model_data":35},"model":"freeze:item/misc_lobby/cape_cherry"},
     {"predicate":{"custom_model_data":36},"model":"freeze:item/misc_lobby/cape_realms"},
     {"predicate":{"custom_model_data":37},"model":"freeze:item/misc_lobby/hoop"},
-    {"predicate":{"custom_model_data":38},"model":"freeze:item/misc_lobby/tv"}
+    {"predicate":{"custom_model_data":38},"model":"freeze:item/misc_lobby/tv"},
+    {"predicate":{"custom_model_data":39},"model":"freeze:item/misc_lobby/desk"},
+    {"predicate":{"custom_model_data":40},"model":"freeze:item/misc_lobby/picture_frame"},
+    {"predicate":{"custom_model_data":41},"model":"freeze:item/misc_lobby/pc"}
   ]
 }
