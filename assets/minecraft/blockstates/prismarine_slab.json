@@ -7,7 +7,7 @@
       "model": "freeze:block/zigzag_block_gold"
     },
     "type=top": {
-      "model": "minecraft:block/prismarine_slab_top"
+      "model": "minecraft:block/bamboo_mosaic_slab_top"
     }
   }
 }
