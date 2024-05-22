@@ -44,6 +44,8 @@
     {"predicate":{"custom_model_data":38},"model":"freeze:item/misc_lobby/tv"},
     {"predicate":{"custom_model_data":39},"model":"freeze:item/misc_lobby/desk"},
     {"predicate":{"custom_model_data":40},"model":"freeze:item/misc_lobby/picture_frame"},
-    {"predicate":{"custom_model_data":41},"model":"freeze:item/misc_lobby/pc"}
+    {"predicate":{"custom_model_data":41},"model":"freeze:item/misc_lobby/pc"},
+    {"predicate":{"custom_model_data":42},"model":"freeze:item/misc_lobby/phonograph"},
+    {"predicate":{"custom_model_data":43},"model":"freeze:item/misc_lobby/phonograph_off"}
   ]
 }
