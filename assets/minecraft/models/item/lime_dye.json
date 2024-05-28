@@ -1,0 +1,64 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/lime_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "freeze:item/aj_thick/dragonking/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "freeze:item/aj_thick/dragonking/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "freeze:item/aj_thick/dragonking/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "freeze:item/aj_thick/dragonking/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "freeze:item/aj_thick/dragonking/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "freeze:item/aj_thick/dragonking/left_leg"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"dragonking": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "freeze:item/aj/right_leg",
+	"textures": {
+		"0": "freeze:item/aj/strongis"
+	}
+}

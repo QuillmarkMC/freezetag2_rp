@@ -1,0 +1,50 @@
+{
+    "version": "0.4.7",
+    "projects": {
+        "3e23e226-d956-b202-4569-94a3b08722e1": {
+            "project_name": "qm_players",
+            "file_list": [
+                "head.json",
+                "body.json",
+                "right_arm.json",
+                "left_arm.json",
+                "right_leg.json",
+                "left_leg.json",
+                "soccby\\head.json",
+                "soccby\\body.json",
+                "soccby\\right_arm.json",
+                "soccby\\left_arm.json",
+                "soccby\\right_leg.json",
+                "soccby\\left_leg.json",
+                "jarmzie.png",
+                "soccby.png"
+            ]
+        },
+        "756186df-92e2-7648-3c66-90bf8607dc89": {
+            "project_name": "qm_players_thick",
+            "file_list": [
+                "head.json",
+                "body.json",
+                "right_arm.json",
+                "left_arm.json",
+                "right_leg.json",
+                "left_leg.json",
+                "soccby\\head.json",
+                "soccby\\body.json",
+                "soccby\\right_arm.json",
+                "soccby\\left_arm.json",
+                "soccby\\right_leg.json",
+                "soccby\\left_leg.json",
+                "tech\\head.json",
+                "tech\\body.json",
+                "tech\\right_arm.json",
+                "tech\\left_arm.json",
+                "tech\\right_leg.json",
+                "tech\\left_leg.json",
+                "jarmzie.png",
+                "soccby.png",
+                "tech.png"
+            ]
+        }
+    }
+}

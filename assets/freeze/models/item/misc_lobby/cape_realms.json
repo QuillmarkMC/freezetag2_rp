@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "freeze:item/misc_lobby/cape_realms",
+		"particle": "freeze:item/misc_lobby/cape_cherry"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 7],
+			"to": [13, 16, 8],
+			"faces": {
+				"north": {"uv": [0.25, 0.5, 2.75, 8.5], "texture": "#1"},
+				"east": {"uv": [0, 0.5, 0.25, 8.5], "texture": "#1"},
+				"south": {"uv": [3, 0.5, 5.5, 8.5], "texture": "#1"},
+				"west": {"uv": [2.75, 0.5, 3, 8.5], "texture": "#1"},
+				"up": {"uv": [0.25, 0, 2.75, 0.5], "texture": "#1"},
+				"down": {"uv": [2.75, 0, 5.25, 0.5], "texture": "#1"}
+			}
+		}
+	]
+}
