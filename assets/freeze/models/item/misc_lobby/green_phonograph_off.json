@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "freeze:item/misc_lobby/phonograph",
-		"7": "freeze:item/misc_lobby/phonograph_disc",
+		"7": "freeze:item/misc_lobby/green_phonograph_disc",
 		"particle": "freeze:item/misc_lobby/phonograph"
 	},
 	"elements": [
