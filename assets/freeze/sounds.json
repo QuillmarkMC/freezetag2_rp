@@ -1,0 +1,7 @@
+{
+	"music.lobby": {"sounds": ["freeze:music/lobby"]},
+	"music.magnificent_machines": {"sounds": ["freeze:music/magnificent_machines"]},
+	"music.toys_on_a_tear": {"sounds": ["freeze:music/toys_on_a_tear"]},
+	"music.wonderous_workshop": {"sounds": ["freeze:music/wonderous_workshop"]},
+	"music.hastilude": {"sounds": ["freeze:music/hastilude"]}
+}
