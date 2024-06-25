@@ -3,7 +3,6 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "freeze:item/misc_lobby/phonograph",
-		"3": "freeze:item/misc_lobby/disc_1",
 		"7": "freeze:item/misc_lobby/phonograph_disc",
 		"particle": "freeze:item/misc_lobby/phonograph"
 	},
@@ -75,7 +74,7 @@
 				"south": {"uv": [0, 0, 2.5, 0], "texture": "#missing"},
 				"west": {"uv": [0, 0, 2.5, 0], "texture": "#missing"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#7"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#7"}
 			}
 		},
 		{
