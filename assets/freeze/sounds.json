@@ -1,7 +1,7 @@
 {
-	"music.lobby": {"sounds": ["freeze:music/lobby"]},
-	"music.magnificent_machines": {"sounds": ["freeze:music/magnificent_machines"]},
-	"music.toys_on_a_tear": {"sounds": ["freeze:music/toys_on_a_tear"]},
-	"music.wonderous_workshop": {"sounds": ["freeze:music/wonderous_workshop"]},
-	"music.hastilude": {"sounds": ["freeze:music/hastilude"]}
+	"music.soothing_voyage": {"sounds": ["freeze:music/soothing_voyage"], "stream":true},
+	"music.magnificent_machines": {"sounds": ["freeze:music/magnificent_machines"], "stream":true},
+	"music.toys_on_a_tear": {"sounds": ["freeze:music/toys_on_a_tear"], "stream":true},
+	"music.wonderous_workshop": {"sounds": ["freeze:music/wonderous_workshop"], "stream":true},
+	"music.hastilude": {"sounds": ["freeze:music/hastilude"], "stream":true}
 }
