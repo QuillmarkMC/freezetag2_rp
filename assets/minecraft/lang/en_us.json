@@ -9,6 +9,14 @@
 "text.game.death_messages.disable":"Death messages have been turned off for you.",
 "text.game.misc.lose_heat":"Your heat has gone out, you can now be frozen!",
 "text.game.misc.hypothermia_death":" succumbed to hypothermia",
+"text.game.misc.surrender":" has voted to surrender {",
+
+"text.game.bossbar.win_score":"Win Score: ",
+"text.game.bossbar.red":"Red: ",
+"text.game.bossbar.blue":"Blue: ",
+
+"text.game.cutscene.start":"The game will start in 10 seconds.",
+"text.game.cutscene.go":"GO",
 
 "text.game.item.avalanche.name":"Avalanche!",
 "text.game.item.avalanche.lore":"Shoots out 5 snowballs that leave slowing snow on the ground in an area where it lands.",
@@ -59,8 +67,6 @@
 "text.game.item.phoenix.name":"Phoenix Ignition",
 "text.game.item.phoenix.lore":"Unfreeze all friends within 16 blocks of you, but you die in the process.",
 "text.game.item.phoenix.use":"You sacrificed yourself to revive your friends",
-"text.game.item.phoenix.name":"",
-"text.game.item.phoenix.name":"",
 "text.game.item.snowman.name":"Decoy Snowman",
 "text.game.item.snowman.lore":"Spawns a decoy snowman that counts as a player on control points.",
 "text.game.item.snowman.use.0":"You have summoned ",
@@ -73,7 +79,10 @@
 "text.game.item.turtle.use.fail":"The Glacierback must be placed on ground",
 "text.game.item.whoaball.name":"Whoaball",
 "text.game.item.whoaball.lore":"Throw it and freeze enemies in a 5 block area around where it lands.",
+"text.game.item.generic.drop":"Throw item to get rid of it.",
 
-"text.game.item.generic.drop":"Throw item to get rid of it."
+"text.general.music.mute":"Music has been muted for you.",
+"text.general.music.unmute":"Music has been unmuted for you."
+
 
 }
