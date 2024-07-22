@@ -123,6 +123,11 @@
 "text.game.bossbar.red":"Red: ",
 "text.game.bossbar.blue":"Blue: ",
 
+"text.game.cp.frozen_crag.watch_tower":"Watch Tower",
+"text.game.cp.frozen_crag.gold_mine":"Gold Mine",
+"text.game.cp.frozen_crag.frozen_lake":"Frozen Lake",
+"text.game.cp.big_oil.watch_tower":"Big Oil",
+
 "text.game.cutscene.start":"The game will start in 10 seconds.",
 "text.game.cutscene.go":"GO",
 "text.game.cutscene.team_wins":" wins!",
