@@ -64,6 +64,30 @@
 "text.lobby.menu.map_select.static.map_info":"Map Info",
 "text.lobby.menu.map_select.static.start_game":"Start Game",
 
+"text.lobby.menu.map_select.glacial_keep.name":"Glacial Keep",
+"text.lobby.menu.map_select.glacial_keep.rec_players":"4 - 12 Players",
+"text.lobby.menu.map_select.glacial_keep.gamemode":"Team Death Match",
+"text.lobby.menu.map_select.glacial_keep.gamemode_desc":"Score points by freezing the enemy team.",
+"text.lobby.menu.map_select.glacial_keep.map_desc":"A castle frozen in a glacial mountain.\n\n",
+
+"text.lobby.menu.map_select.frosty_fjord.name":"Frosty Fjord",
+"text.lobby.menu.map_select.frosty_fjord.rec_players":"10+ Players",
+"text.lobby.menu.map_select.frosty_fjord.gamemode":"Team Death Match",
+"text.lobby.menu.map_select.frosty_fjord.gamemode_desc":"Score points by freezing the enemy team.",
+"text.lobby.menu.map_select.frosty_fjord.map_desc":"A large frosty fishing village. Watch out for the water, it's extra cold!",
+
+"text.lobby.menu.map_select.big_oil.name":"Big Oil",
+"text.lobby.menu.map_select.big_oil.rec_players":"6 - 12 Players",
+"text.lobby.menu.map_select.big_oil.gamemode":"Domination",
+"text.lobby.menu.map_select.big_oil.gamemode_desc":"Score points by standing on the control points.",
+"text.lobby.menu.map_select.big_oil.map_desc":"A single control point on an oil rig in a frozen lake. Don't fall in the oil!",
+
+"text.lobby.menu.map_select.frozen_crag.name":"Frozen Crag",
+"text.lobby.menu.map_select.frozen_crag.rec_players":"10+ Players",
+"text.lobby.menu.map_select.frozen_crag.gamemode":"Domination",
+"text.lobby.menu.map_select.frozen_crag.gamemode_desc":"Score points by standing on the control points.",
+"text.lobby.menu.map_select.frozen_crag.map_desc":"Three control points spread through three craggy caves.\n",
+
 "text.lobby.menu.team_select.prompt":"Click to \nJoin ",
 "text.lobby.menu.team_select.red":"Red",
 "text.lobby.menu.team_select.blue":"Blue",
