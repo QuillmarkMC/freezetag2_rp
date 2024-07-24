@@ -39,6 +39,10 @@
 
 "text.lobby.menu.reset":"Map settings have been returned to default.",
 
+"text.lobby.menu.admin.lock": "Settings have been locked! Only you and/or admins can modify settings.",
+"text.lobby.menu.admin.unlock": "Settings have been unlocked.",
+"text.lobby.menu.admin.fail": "Settings are locked for admins only.",
+
 "text.lobby.menu.game.title":"Game Options",
 "note_for_translators_this_is_not_used_in_the_map_anywhere_0":"There's a bunch of spaces in these lines of text because it's needed in order to align them with the buttons. When translating, make sure to check the in-game menu to make sure everything is aligned properly.",
 "text.lobby.menu.game.title.win_score":"                                Win Score:",
@@ -112,6 +116,10 @@
 "text.lobby.menu.team_select.blue":"Blue",
 "text.lobby.menu.team_select.random":"Random",
 "text.lobby.menu.team_select.spectator":"Spectator",
+
+"text.lobby.menu.music.set": "Soundtrack changed to: ",
+"text.lobby.menu.music.soundtrack.minecraft": "Minecraft",
+"text.lobby.menu.music.soundtrack.original": "Original",
 
 "text.lobby.team.join.red.0":"You've joined ",
 "text.lobby.team.join.red.1":"Red",
