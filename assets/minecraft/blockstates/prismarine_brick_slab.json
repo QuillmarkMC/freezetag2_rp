@@ -7,7 +7,7 @@
       "model": "freeze:block/zigzag_block_purple"
     },
     "type=top,waterlogged=false": {
-      "model": "freeze:block/prismarine_brick_slab_top"
+      "model": "minecraft:block/prismarine_brick_slab_top"
     },
     "type=bottom,waterlogged=true": {
       "model": "minecraft:block/prismarine_brick_slab"
