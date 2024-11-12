@@ -4,7 +4,7 @@
 	"textures": {
 		"3": "freeze:item/item_giver/inactive_box",
 		"4": "freeze:item/item_giver/inactive_box_2",
-		"particle": "freeze:item/item_giver/item_giver"
+		"particle": "freeze:item/item_giver/item_box"
 	},
 	"elements": [
 		{
