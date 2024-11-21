@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_chestplate"
+  },
+  "overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/armor/blue_chestplate" },
+    { "predicate": {"custom_model_data": 2}, "model": "freeze:item/armor/red_chestplate" },
+    { "predicate": {"custom_model_data": 3}, "model": "freeze:item/armor/random_chestplate" },
+    { "predicate": {"custom_model_data": 4}, "model": "freeze:item/armor/spectator_chestplate" }
+	]
+}

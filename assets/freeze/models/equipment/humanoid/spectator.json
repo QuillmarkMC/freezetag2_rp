@@ -2,12 +2,12 @@
     "layers": {
       "humanoid": [
         {
-          "texture": "freeze:blue"
+          "texture": "freeze:spectator"
         }
       ],
       "humanoid_leggings": [
         {
-          "texture": "freeze:blue"
+          "texture": "freeze:spectator"
         }
       ]
     }
