@@ -35,7 +35,7 @@
 "text.lobby.menu.info.heat_time.name":"Heat Time",
 "text.lobby.menu.info.heat_time":"The amount of invulnerability time you have after respawning.",
 "text.lobby.menu.info.overtime_deduction.name":"Overtime Deduction",
-"text.lobby.menu.info.overtime_deduction":"The amount of invulnerability time you have after respawning.",
+"text.lobby.menu.info.overtime_deduction":"The amount of points that are deducted from both teams score if both teams win at the same time.",
 
 "text.lobby.menu.reset":"Map settings have been returned to default.",
 

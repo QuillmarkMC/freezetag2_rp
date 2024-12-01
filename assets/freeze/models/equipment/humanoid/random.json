@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "freeze:random"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "freeze:random"
+        }
+      ]
+    }
+  }

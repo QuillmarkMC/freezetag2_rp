@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "freeze:blue"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "freeze:blue"
+        }
+      ]
+    }
+  }

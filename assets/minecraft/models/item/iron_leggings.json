@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_leggings"
+  },
+  "overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/armor/blue_leggings" },
+    { "predicate": {"custom_model_data": 2}, "model": "freeze:item/armor/red_leggings" },
+    { "predicate": {"custom_model_data": 3}, "model": "freeze:item/armor/random_leggings" },
+    { "predicate": {"custom_model_data": 4}, "model": "freeze:item/armor/spectator_leggings" }
+	]
+}

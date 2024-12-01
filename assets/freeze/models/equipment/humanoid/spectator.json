@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "freeze:spectator"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "freeze:spectator"
+        }
+      ]
+    }
+  }
