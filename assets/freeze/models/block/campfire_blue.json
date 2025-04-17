@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"parent": "block/block",
 	"textures": {
 		"3": "freeze:block/campfire_fire_blue",

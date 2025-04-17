@@ -1,6 +1,7 @@
 {
 	"parent": "freeze:item/aj/left_leg",
 	"textures": {
-		"0": "freeze:item/aj/jarmzie"
+		"0": "freeze:item/aj/jarmzie",
+		"particle": "freeze:item/nothing"
 	}
 }

@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "freeze:item/aj_thick/chief"
+		"0": "freeze:item/aj_thick/chief",
+		"particle": "freeze:item/nothing"
 	},
 	"elements": [
 		{
