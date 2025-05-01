@@ -1,6 +1,7 @@
 {
 	"parent": "freeze:item/aj_thick/right_leg",
 	"textures": {
-		"0": "freeze:item/aj_thick/soccby"
+		"0": "freeze:item/aj_thick/soccby",
+		"particle": "freeze:item/nothing"
 	}
 }

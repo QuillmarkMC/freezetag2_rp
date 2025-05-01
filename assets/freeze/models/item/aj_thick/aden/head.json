@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "freeze:item/aj_thick/aden"
+		"0": "freeze:item/aj_thick/aden",
+		"particle": "freeze:item/nothing"
 	},
 	"elements": [
 		{

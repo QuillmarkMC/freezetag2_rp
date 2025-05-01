@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "freeze:item/aj_thick/tech",
 		"1": "freeze:item/aj_thick/soccby",
-		"2": "freeze:item/aj_thick/tech"
+		"2": "freeze:item/aj_thick/tech",
+		"particle": "freeze:item/nothing"
 	}
 }

@@ -1,6 +1,7 @@
 {
 	"parent": "freeze:item/aj/body",
 	"textures": {
-		"0": "freeze:item/aj/strongis"
+		"0": "freeze:item/aj/strongis",
+		"particle": "freeze:item/nothing"
 	}
 }
