@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 63,
+    "pack_format": 64,
     "description": "\u00A76\u00A7oResource pack for: \n\u00A7b\u00A7lFrostbite Frenzy",
-	"supported_formats": [55, 63]
+	"supported_formats": [55, 64]
   }
 }
