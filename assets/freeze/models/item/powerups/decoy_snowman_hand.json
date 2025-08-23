@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made by Cygnus",
 	"texture_size": [32, 32],
 	"textures": {
@@ -98,7 +99,7 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [30, -135, 0],
 			"translation": [0, 2, 0]
 		},
 		"head": {
