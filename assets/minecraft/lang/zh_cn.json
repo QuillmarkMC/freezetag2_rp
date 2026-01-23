@@ -270,7 +270,8 @@
 
 "text.game.cutscene.start":"游戏将在10秒后开始。",
 "text.game.cutscene.go":"开始",
-"text.game.cutscene.team_wins":"胜利！",
+"text.game.cutscene.team_wins.red":"红队获胜！",
+"text.game.cutscene.team_wins.blue":"蓝队获胜！",
 "text.game.cutscene.team.red":"红队",
 "text.game.cutscene.team.blue":"蓝队",
 "text.game.cutscene.versus":"] vs. [",

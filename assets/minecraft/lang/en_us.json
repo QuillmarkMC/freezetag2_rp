@@ -270,7 +270,8 @@
 
 "text.game.cutscene.start":"The game will start in 10 seconds.",
 "text.game.cutscene.go":"GO",
-"text.game.cutscene.team_wins":" wins!",
+"text.game.cutscene.team_wins.red":"Red wins!",
+"text.game.cutscene.team_wins.blue":"Blue wins!",
 "text.game.cutscene.team.red":"Red",
 "text.game.cutscene.team.blue":"Blue",
 "text.game.cutscene.versus":"] vs. [",
