@@ -1,6 +1,24 @@
 {
-    "model": {
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "firstperson_righthand",
+          "firstperson_lefthand",
+          "thirdperson_righthand",
+          "thirdperson_lefthand"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "freeze:item/powerups/whoaball_hand"
+        }
+      }
+    ],
+    "fallback": {
       "type": "minecraft:model",
       "model": "freeze:item/powerups/whoaball"
     }
+  }
 }
