@@ -2,6 +2,8 @@
 
 "soundCategory.music": "§cОригинальная музыка (§4отключите§c)§r",
 "soundCategory.record": "§aКастомная музыка§r",
+"menu.options": "§aНастройки...§r",
+"options.sounds": "§aМузыка и звуки...§r",
 
 "text.lobby.welcome":"Добро пожаловать в ",
 "text.lobby.welcome_back":"С возвращением в ",

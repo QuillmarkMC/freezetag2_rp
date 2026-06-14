@@ -2,6 +2,8 @@
 
 "soundCategory.music": "§c原版音乐 (§4禁用§c)§r",
 "soundCategory.record": "§a自定义音乐§r",
+"menu.options": "§a选项…§r",
+"options.sounds": "§a音乐和声音…§r",
 
 "text.lobby.welcome":"欢迎来到 ",
 "text.lobby.welcome_back":"欢迎回到 ",

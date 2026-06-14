@@ -2,6 +2,8 @@
 
 "soundCategory.music": "§cバニラBGM (§4オフ推奨§c)§r",
 "soundCategory.record": "§aカスタム音楽§r",
+"menu.options": "§a設定…§r",
+"options.sounds": "§aサウンド設定…§r",
 
 "text.lobby.welcome":"ようこそ、",
 "text.lobby.welcome_back":"お帰りなさい、",
