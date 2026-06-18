@@ -1,4 +1,6 @@
 {
   "soundCategory.music": "§cVanilla Music (§4disable§c)§r",
-  "soundCategory.record": "§aCustom Music§r"
+  "soundCategory.record": "§aCustom Music§r",
+  "menu.options": "§aOptions...§r",
+  "options.sounds": "§aMusic & Sounds...§r"
 }

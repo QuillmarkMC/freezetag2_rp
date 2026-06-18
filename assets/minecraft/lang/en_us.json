@@ -2,6 +2,8 @@
 
 "soundCategory.music": "§cVanilla Music (§4disable§c)§r",
 "soundCategory.record": "§aCustom Music§r",
+"menu.options": "§aOptions...§r",
+"options.sounds": "§aMusic & Sounds...§r",
 
 "text.lobby.welcome":"Welcome to ",
 "text.lobby.welcome_back":"Welcome back to ",
@@ -77,7 +79,7 @@
 "text.lobby.menu.item.desc.phoenix":"Unfreezes all teammates within 16 blocks, but you instantly die in the process.\n\n\n",
 "text.lobby.menu.item.desc.explosion":"Freezes all enemies within 6 blocks, but you freeze as well.\n\n\n\n\n",
 "text.lobby.menu.item.desc.bow":"A bow that has 3 shots that can be used to freeze enemies or unfreeze teammates.\n\n\n",
-"text.lobby.menu.item.desc.blaze":"Sets up a Spawnfire that you can teleport to next time you\\'re frozen. Can be broken by enemies, burns out naturally after 30 seconds.\n",
+"text.lobby.menu.item.desc.blaze":"Sets up a Spawnfire that you can teleport to next time you're frozen. Can be broken by enemies, burns out naturally after 30 seconds.\n",
 "text.lobby.menu.item.desc.speed":"Gives you speed 3 for 12 seconds.\n\n\n\n\n\n",
 "text.lobby.menu.item.desc.whoaball":"Throw it and freeze enemies in a 5 block area around where it lands.\n\n\n\n",
 
